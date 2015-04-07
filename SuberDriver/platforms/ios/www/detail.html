@@ -1,0 +1,36 @@
+<ons-page ng-controller="DetailCtrl">
+
+  <ons-toolbar>
+    <div class="left"><ons-back-button>Back</ons-back-button></div>
+    <div class="center">Details</div>
+  </ons-toolbar>
+
+  <ons-list modifier="inset" style="margin-top: 10px;  margin-bottom: 10px">
+    <ons-list-item class="item">
+    <ons-row>
+      <ons-col width="60px">
+	<ons-icon icon="ion-man" style="opacity: 0.8"></ons-icon>
+      </ons-col>
+      <ons-col>
+        <header>
+          <span class="item-title">{{ item.name }}</span>
+        </header>
+      </ons-col>
+    </ons-row>
+    <ons-row >
+	      <ons-col>
+	<button class="button button--large ">Oui</button>
+	      </ons-col>
+		      <ons-col>
+		<button class="button  button--large--quiet">Non</button>
+		      </ons-col>
+    </ons-row>
+    </ons-list-item>
+  </ons-list>
+<br><br>
+
+<ui-gmap-google-map center='map.center' zoom='map.zoom'>
+<ui-gmap-marker coords="car_marker.coords" options="car_marker.options" icon="car_marker.icon" events="car_marker.events" idkey="car_marker.id"></ui-gmap-marker>
+<ui-gmap-marker coords="client_marker.coords" options="client_marker.options" events="client_marker.events" idkey="client_marker.id"></ui-gmap-marker>
+</ui-gmap-google-map>
+</ons-page>

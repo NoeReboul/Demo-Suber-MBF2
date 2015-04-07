@@ -1,0 +1,28 @@
+  <ons-page>
+    <ons-toolbar>
+      <div class="center">Suber Driver</div>
+    </ons-toolbar>
+
+    <div ng-controller="PublishingCtrl">
+    </div>
+
+    <ons-list ng-controller="MainCtrl">
+	<div id="Receiver"></div>
+      <ons-list-item modifier="chevron" class="item" ng-repeat="item in items" ng-click="showDetail($index)">
+        <ons-row>
+          <ons-col width="60px">
+            <div class="item-thum"></div>
+          </ons-col>
+          <ons-col>
+            <header>
+              <span class="item-title">{{ item.name }} @ {{item.date | date:'yyyy-MM-dd HH:mm:ss Z' }}</span>
+              <span class="item-label"></span>
+            </header>
+            <p class="item-desc">
+            	
+            </p>
+          </ons-col>
+        </ons-row>
+      </ons-list-item>
+    </ons-list>
+  </ons-page>

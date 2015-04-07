@@ -1,0 +1,87 @@
+2015-04-05 09:59:33.684 SuberCab[97745:518910] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/B59C1FF2-9170-4460-8BC1-8E25139017F4/Library/Cookies/Cookies.binarycookies
+2015-04-05 09:59:34.044 SuberCab[97745:518910] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 09:59:34.045 SuberCab[97745:518910] Multi-tasking -> Device: YES, App: YES
+2015-04-05 09:59:34.067 SuberCab[97745:518910] Unlimited access to network resources
+2015-04-05 09:59:34.080 SuberCab[97745:518910] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 09:59:35.113 SuberCab[97745:518910] Resetting plugins due to page load.
+2015-04-05 09:59:35.380 SuberCab[97745:518910] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/F4FE4504-D8FA-4E97-8EA9-1CFDDA2AB4F5/SuberCab.app/www/index.html
+2015-04-05 22:05:23.583 SuberCab[64088:956633] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/5B3B2FCF-A057-43B6-A430-1AB1821E1AC5/Library/Cookies/Cookies.binarycookies
+2015-04-05 22:05:24.081 SuberCab[64088:956633] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 22:05:24.082 SuberCab[64088:956633] Multi-tasking -> Device: YES, App: YES
+2015-04-05 22:05:24.104 SuberCab[64088:956633] Unlimited access to network resources
+2015-04-05 22:05:24.117 SuberCab[64088:956633] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 22:05:24.859 SuberCab[64088:956633] Resetting plugins due to page load.
+2015-04-05 22:05:25.249 SuberCab[64088:956633] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/6964C1C4-836F-4B8D-9783-A28D67949FC7/SuberCab.app/www/index.html
+2015-04-06 20:56:48.518 SuberCab[9696:1316976] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/0474E40F-0D88-4D95-B890-DF9B6346C226/Library/Cookies/Cookies.binarycookies
+2015-04-06 20:56:49.022 SuberCab[9696:1316976] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-06 20:56:49.023 SuberCab[9696:1316976] Multi-tasking -> Device: YES, App: YES
+2015-04-06 20:56:49.045 SuberCab[9696:1316976] Unlimited access to network resources
+2015-04-06 20:56:49.069 SuberCab[9696:1316976] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-06 20:56:50.044 SuberCab[9696:1316976] Resetting plugins due to page load.
+2015-04-06 20:56:50.510 SuberCab[9696:1316976] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/6EE05F78-85DC-44EA-842D-64A71EB83407/SuberCab.app/www/index.html
+2015-04-06 20:59:19.838 SuberCab[10276:1319888] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/F7F9B60D-9994-49F6-A2BC-E5FC7ECCFC0C/Library/Cookies/Cookies.binarycookies
+2015-04-06 20:59:20.228 SuberCab[10276:1319888] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-06 20:59:20.228 SuberCab[10276:1319888] Multi-tasking -> Device: YES, App: YES
+2015-04-06 20:59:20.246 SuberCab[10276:1319888] Unlimited access to network resources
+2015-04-06 20:59:20.261 SuberCab[10276:1319888] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-06 20:59:21.069 SuberCab[10276:1319888] Resetting plugins due to page load.
+2015-04-06 20:59:21.564 SuberCab[10276:1319888] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/F76261C8-C349-4A3E-A4A0-33CF2CB482CB/SuberCab.app/www/index.html
+2015-04-06 21:02:12.873 SuberCab[10905:1322467] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/28ED74DD-3C4D-4D93-B3AE-DB107B2B9D4A/Library/Cookies/Cookies.binarycookies
+2015-04-06 21:02:13.008 SuberCab[10905:1322467] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-06 21:02:13.008 SuberCab[10905:1322467] Multi-tasking -> Device: YES, App: YES
+2015-04-06 21:02:13.011 SuberCab[10905:1322467] Unlimited access to network resources
+2015-04-06 21:02:13.014 SuberCab[10905:1322467] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-06 21:02:13.440 SuberCab[10905:1322467] Resetting plugins due to page load.
+2015-04-06 21:02:13.732 SuberCab[10905:1322467] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/4C7EBAE1-7D09-4DC7-92DC-FF82D5CD433E/SuberCab.app/www/index.html
+2015-04-06 22:26:36.459 SuberCab[10905:1386678] Communications error: <OS_xpc_error: <error: 0x2d6b5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d6b83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-04-06 22:46:11.863 SuberCab[22220:1404095] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/A62FA77A-3DC0-4A25-8AD1-88517ACC2109/Library/Cookies/Cookies.binarycookies
+2015-04-06 22:46:12.265 SuberCab[22220:1404095] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-06 22:46:12.265 SuberCab[22220:1404095] Multi-tasking -> Device: YES, App: YES
+2015-04-06 22:46:12.280 SuberCab[22220:1404095] Unlimited access to network resources
+2015-04-06 22:46:12.293 SuberCab[22220:1404095] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-06 22:46:13.045 SuberCab[22220:1404095] Resetting plugins due to page load.
+2015-04-06 22:46:13.417 SuberCab[22220:1404095] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/823F4237-765F-4258-B266-787CAB2E9369/SuberCab.app/www/index.html

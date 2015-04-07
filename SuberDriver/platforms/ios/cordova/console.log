@@ -1,0 +1,696 @@
+2015-04-05 10:02:02.357 SuberDriver[98255:522451] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/1034ED99-67A9-44EB-AC1D-973A025BF15D/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:02:02.826 SuberDriver[98255:522451] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:02:02.826 SuberDriver[98255:522451] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:02:02.845 SuberDriver[98255:522451] Unlimited access to network resources
+2015-04-05 10:02:02.861 SuberDriver[98255:522451] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:02:03.627 SuberDriver[98255:522451] Resetting plugins due to page load.
+2015-04-05 10:02:04.075 SuberDriver[98255:522451] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/A8211EC1-E2D6-485F-B558-9F0FF4406E80/SuberDriver.app/www/index.html
+2015-04-05 10:07:26.455 SuberDriver[98970:526655] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/D9B315A9-D027-41FA-A0ED-8E2ADC2C0EFB/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:07:26.797 SuberDriver[98970:526655] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:07:26.797 SuberDriver[98970:526655] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:07:26.813 SuberDriver[98970:526655] Unlimited access to network resources
+2015-04-05 10:07:26.829 SuberDriver[98970:526655] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:07:27.530 SuberDriver[98970:526655] Resetting plugins due to page load.
+2015-04-05 10:07:27.886 SuberDriver[98970:526655] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/58C6C666-D9D0-4708-818B-8FC7E0FD4250/SuberDriver.app/www/index.html
+2015-04-05 10:10:49.896 SuberDriver[99447:528925] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/A78EEF22-3F8C-4702-A84B-A458E1AFCB40/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:10:50.210 SuberDriver[99447:528925] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:10:50.211 SuberDriver[99447:528925] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:10:50.228 SuberDriver[99447:528925] Unlimited access to network resources
+2015-04-05 10:10:50.241 SuberDriver[99447:528925] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:10:50.941 SuberDriver[99447:528925] Resetting plugins due to page load.
+2015-04-05 10:10:51.265 SuberDriver[99447:528925] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/2EA16464-ED5F-419B-AE32-914FE76E1C4F/SuberDriver.app/www/index.html
+2015-04-05 10:12:14.230 SuberDriver[99713:530119] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/E5358BD3-886F-42C2-9EAA-626CF8066FA4/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:12:14.340 SuberDriver[99713:530119] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:12:14.340 SuberDriver[99713:530119] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:12:14.342 SuberDriver[99713:530119] Unlimited access to network resources
+2015-04-05 10:12:14.345 SuberDriver[99713:530119] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:12:14.567 SuberDriver[99713:530119] Resetting plugins due to page load.
+2015-04-05 10:12:14.725 SuberDriver[99713:530119] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/C770F68E-90CF-4C39-92E1-4A0EB35041DB/SuberDriver.app/www/index.html
+2015-04-05 10:14:32.700 SuberDriver[181:531723] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/40533A47-B6ED-4811-936D-A3C7065F66B5/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:14:32.791 SuberDriver[181:531723] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:14:32.792 SuberDriver[181:531723] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:14:32.793 SuberDriver[181:531723] Unlimited access to network resources
+2015-04-05 10:14:32.796 SuberDriver[181:531723] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:14:33.007 SuberDriver[181:531723] Resetting plugins due to page load.
+2015-04-05 10:14:33.196 SuberDriver[181:531723] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/0E5F4658-0D49-47E6-9D60-E179CFE1C288/SuberDriver.app/www/index.html
+2015-04-05 10:15:29.380 SuberDriver[473:532846] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/85D08DF5-CE70-4DD0-AA21-5A896A3BC08B/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:15:29.692 SuberDriver[473:532846] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:15:29.692 SuberDriver[473:532846] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:15:29.708 SuberDriver[473:532846] Unlimited access to network resources
+2015-04-05 10:15:29.723 SuberDriver[473:532846] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:15:30.435 SuberDriver[473:532846] Resetting plugins due to page load.
+2015-04-05 10:15:30.788 SuberDriver[473:532846] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/5813F094-EB91-4421-879C-19C10EC9A6C7/SuberDriver.app/www/index.html
+2015-04-05 10:16:51.583 SuberDriver[756:534280] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/A58ABB63-2086-4CF2-8110-8E1B1091E62F/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:16:51.780 SuberDriver[756:534280] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:16:51.780 SuberDriver[756:534280] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:16:51.782 SuberDriver[756:534280] Unlimited access to network resources
+2015-04-05 10:16:51.785 SuberDriver[756:534280] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:16:51.996 SuberDriver[756:534280] Resetting plugins due to page load.
+2015-04-05 10:16:52.224 SuberDriver[756:534280] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/BA310C95-456B-48EA-A8D4-05E4D40C08E6/SuberDriver.app/www/index.html
+2015-04-05 10:17:29.680 SuberDriver[956:535179] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/449AB77A-A905-489A-A3DB-7A990C0D4664/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:17:29.991 SuberDriver[956:535179] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:17:29.992 SuberDriver[956:535179] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:17:30.007 SuberDriver[956:535179] Unlimited access to network resources
+2015-04-05 10:17:30.020 SuberDriver[956:535179] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:17:30.676 SuberDriver[956:535179] Resetting plugins due to page load.
+2015-04-05 10:17:31.110 SuberDriver[956:535179] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/EEC5EA3F-ABEB-4AB3-85F9-E1CCA59E2C29/SuberDriver.app/www/index.html
+2015-04-05 10:18:30.672 SuberDriver[1185:536132] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/B98A5B19-39F2-4903-9D07-79E8DC80B743/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:18:30.759 SuberDriver[1185:536132] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:18:30.760 SuberDriver[1185:536132] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:18:30.761 SuberDriver[1185:536132] Unlimited access to network resources
+2015-04-05 10:18:30.764 SuberDriver[1185:536132] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:18:30.988 SuberDriver[1185:536132] Resetting plugins due to page load.
+2015-04-05 10:18:31.254 SuberDriver[1185:536132] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/F3DFEB68-4622-4D1A-AEF8-5978E8FAAF4D/SuberDriver.app/www/index.html
+2015-04-05 10:19:15.065 SuberDriver[1379:536940] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/5B7F121A-89A6-4204-837D-532CA222110D/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:19:15.156 SuberDriver[1379:536940] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:19:15.157 SuberDriver[1379:536940] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:19:15.159 SuberDriver[1379:536940] Unlimited access to network resources
+2015-04-05 10:19:15.161 SuberDriver[1379:536940] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:19:15.385 SuberDriver[1379:536940] Resetting plugins due to page load.
+2015-04-05 10:19:15.661 SuberDriver[1379:536940] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/9587B4A9-EE16-4A7B-BBDF-D42A5C79A48D/SuberDriver.app/www/index.html
+2015-04-05 10:22:44.652 SuberDriver[1904:539425] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/2CD5F512-B0BE-4195-A746-0A3AF6B824A7/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:22:44.941 SuberDriver[1904:539425] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:22:44.942 SuberDriver[1904:539425] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:22:44.955 SuberDriver[1904:539425] Unlimited access to network resources
+2015-04-05 10:22:44.968 SuberDriver[1904:539425] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:22:45.598 SuberDriver[1904:539425] Resetting plugins due to page load.
+2015-04-05 10:22:45.996 SuberDriver[1904:539425] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/8999BF24-26EA-40C6-B12E-CFFF6E1ECD95/SuberDriver.app/www/index.html
+2015-04-05 10:23:03.710 SuberDriver[2097:540031] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/F855ECD0-80B0-4E2A-9B08-AD4FA7B184D9/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:23:03.797 SuberDriver[2097:540031] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:23:03.797 SuberDriver[2097:540031] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:23:03.799 SuberDriver[2097:540031] Unlimited access to network resources
+2015-04-05 10:23:03.802 SuberDriver[2097:540031] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:23:04.011 SuberDriver[2097:540031] Resetting plugins due to page load.
+2015-04-05 10:23:04.272 SuberDriver[2097:540031] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/AC32A78C-3A64-4A3E-A9D6-C2F7BEE09923/SuberDriver.app/www/index.html
+2015-04-05 10:23:31.810 SuberDriver[2304:540636] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/E8D9E49D-A416-4E02-BE30-B1E2F2BEA416/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:23:31.896 SuberDriver[2304:540636] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:23:31.897 SuberDriver[2304:540636] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:23:31.899 SuberDriver[2304:540636] Unlimited access to network resources
+2015-04-05 10:23:31.902 SuberDriver[2304:540636] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:23:32.115 SuberDriver[2304:540636] Resetting plugins due to page load.
+2015-04-05 10:23:32.341 SuberDriver[2304:540636] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/7FD3A741-58CA-4B50-A083-0815C27A483D/SuberDriver.app/www/index.html
+2015-04-05 10:24:01.405 SuberDriver[2508:541295] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/6DD9544B-0096-49FD-8C14-3EE318B2B18E/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:24:01.734 SuberDriver[2508:541295] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:24:01.734 SuberDriver[2508:541295] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:24:01.752 SuberDriver[2508:541295] Unlimited access to network resources
+2015-04-05 10:24:01.767 SuberDriver[2508:541295] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:24:02.453 SuberDriver[2508:541295] Resetting plugins due to page load.
+2015-04-05 10:24:02.837 SuberDriver[2508:541295] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/C9822514-89B0-446F-95A0-8E006862E65C/SuberDriver.app/www/index.html
+2015-04-05 10:27:25.054 SuberDriver[3019:543725] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/D3FFB1E4-4941-4460-92EE-2200BC35EF08/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:27:25.352 SuberDriver[3019:543725] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:27:25.353 SuberDriver[3019:543725] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:27:25.367 SuberDriver[3019:543725] Unlimited access to network resources
+2015-04-05 10:27:25.379 SuberDriver[3019:543725] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:27:25.973 SuberDriver[3019:543725] Resetting plugins due to page load.
+2015-04-05 10:27:26.380 SuberDriver[3019:543725] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/4BD2098C-5ED4-416C-9FE8-B5AE28664B02/SuberDriver.app/www/index.html
+2015-04-05 10:27:50.773 SuberDriver[3215:544339] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/34D6E2C9-9782-4DBC-9532-A8E14865737D/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:27:50.862 SuberDriver[3215:544339] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:27:50.863 SuberDriver[3215:544339] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:27:50.864 SuberDriver[3215:544339] Unlimited access to network resources
+2015-04-05 10:27:50.868 SuberDriver[3215:544339] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:27:51.067 SuberDriver[3215:544339] Resetting plugins due to page load.
+2015-04-05 10:27:51.308 SuberDriver[3215:544339] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/57E54E22-12B1-4245-A420-7C8205D90A13/SuberDriver.app/www/index.html
+2015-04-05 10:28:57.279 SuberDriver[3512:545895] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/B27EDCC9-9160-40E9-B6DC-2C440C4B5F8A/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:28:57.654 SuberDriver[3512:545895] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:28:57.655 SuberDriver[3512:545895] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:28:57.672 SuberDriver[3512:545895] Unlimited access to network resources
+2015-04-05 10:28:57.686 SuberDriver[3512:545895] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:28:58.382 SuberDriver[3512:545895] Resetting plugins due to page load.
+2015-04-05 10:28:58.761 SuberDriver[3512:545895] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/CE9B490F-80E3-442C-8618-817E06CDA614/SuberDriver.app/www/index.html
+2015-04-05 10:50:41.839 SuberDriver[6040:562637] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/67916BAE-57FE-4E82-95D2-AC76C2A98419/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:50:42.204 SuberDriver[6040:562637] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:50:42.205 SuberDriver[6040:562637] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:50:42.219 SuberDriver[6040:562637] Unlimited access to network resources
+2015-04-05 10:50:42.232 SuberDriver[6040:562637] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:50:42.921 SuberDriver[6040:562637] Resetting plugins due to page load.
+2015-04-05 10:50:43.239 SuberDriver[6040:562637] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/9951D303-A15D-4065-9114-DDA47E905C6E/SuberDriver.app/www/index.html
+2015-04-05 10:52:06.767 SuberDriver[6344:564455] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/4648A231-9FE9-4A7E-9657-4209E26324C2/Library/Cookies/Cookies.binarycookies
+2015-04-05 10:52:07.063 SuberDriver[6344:564455] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 10:52:07.064 SuberDriver[6344:564455] Multi-tasking -> Device: YES, App: YES
+2015-04-05 10:52:07.080 SuberDriver[6344:564455] Unlimited access to network resources
+2015-04-05 10:52:07.096 SuberDriver[6344:564455] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 10:52:07.790 SuberDriver[6344:564455] Resetting plugins due to page load.
+2015-04-05 10:52:08.230 SuberDriver[6344:564455] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/AEA39FD0-DABA-44A2-9E4E-91F3D1B00EA4/SuberDriver.app/www/index.html
+2015-04-05 11:56:46.437 SuberDriver[11107:600280] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/7F24FCEE-DBF6-4EFA-AF3F-830B1BA5FAE6/Library/Cookies/Cookies.binarycookies
+2015-04-05 11:56:46.940 SuberDriver[11107:600280] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 11:56:46.941 SuberDriver[11107:600280] Multi-tasking -> Device: YES, App: YES
+2015-04-05 11:56:46.973 SuberDriver[11107:600280] Unlimited access to network resources
+2015-04-05 11:56:46.986 SuberDriver[11107:600280] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 11:56:47.738 SuberDriver[11107:600280] Resetting plugins due to page load.
+2015-04-05 11:56:48.174 SuberDriver[11107:600280] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/022AAF11-1A31-4161-8284-AA34D0801893/SuberDriver.app/www/index.html
+2015-04-05 11:58:16.355 SuberDriver[11422:601585] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/67FD8A99-44E0-45B5-A452-28177886F665/Library/Cookies/Cookies.binarycookies
+2015-04-05 11:58:16.699 SuberDriver[11422:601585] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 11:58:16.699 SuberDriver[11422:601585] Multi-tasking -> Device: YES, App: YES
+2015-04-05 11:58:16.724 SuberDriver[11422:601585] Unlimited access to network resources
+2015-04-05 11:58:16.737 SuberDriver[11422:601585] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 11:58:17.470 SuberDriver[11422:601585] Resetting plugins due to page load.
+2015-04-05 11:58:17.886 SuberDriver[11422:601585] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/0129E12A-A0E1-4BB1-8D47-19824122E209/SuberDriver.app/www/index.html
+2015-04-05 11:59:51.403 SuberDriver[11745:603110] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/306C3CDE-F8E4-4462-B8C8-89575D0D1E64/Library/Cookies/Cookies.binarycookies
+2015-04-05 11:59:51.784 SuberDriver[11745:603110] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 11:59:51.785 SuberDriver[11745:603110] Multi-tasking -> Device: YES, App: YES
+2015-04-05 11:59:51.799 SuberDriver[11745:603110] Unlimited access to network resources
+2015-04-05 11:59:51.814 SuberDriver[11745:603110] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 11:59:52.502 SuberDriver[11745:603110] Resetting plugins due to page load.
+2015-04-05 11:59:53.010 SuberDriver[11745:603110] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/AE2FF735-F656-421B-A054-BA8F8E4C0665/SuberDriver.app/www/index.html
+2015-04-05 12:01:58.615 SuberDriver[12147:605263] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/41FA8033-7F69-4D55-A600-248C7F731C03/Library/Cookies/Cookies.binarycookies
+2015-04-05 12:01:58.912 SuberDriver[12147:605263] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 12:01:58.913 SuberDriver[12147:605263] Multi-tasking -> Device: YES, App: YES
+2015-04-05 12:01:58.930 SuberDriver[12147:605263] Unlimited access to network resources
+2015-04-05 12:01:58.946 SuberDriver[12147:605263] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 12:01:59.624 SuberDriver[12147:605263] Resetting plugins due to page load.
+2015-04-05 12:02:00.102 SuberDriver[12147:605263] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/B9AE11C7-5C18-483B-B14D-ED4CFF0CB7FE/SuberDriver.app/www/index.html
+2015-04-05 12:02:55.853 SuberDriver[12403:606438] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/753B2157-A884-4DDC-85EB-33E30BC49C56/Library/Cookies/Cookies.binarycookies
+2015-04-05 12:02:56.206 SuberDriver[12403:606438] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 12:02:56.207 SuberDriver[12403:606438] Multi-tasking -> Device: YES, App: YES
+2015-04-05 12:02:56.226 SuberDriver[12403:606438] Unlimited access to network resources
+2015-04-05 12:02:56.239 SuberDriver[12403:606438] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 12:02:56.936 SuberDriver[12403:606438] Resetting plugins due to page load.
+2015-04-05 12:02:57.395 SuberDriver[12403:606438] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/EDFB5A87-D3DC-41B5-B0C7-30CC10CAA164/SuberDriver.app/www/index.html
+2015-04-05 12:04:13.667 SuberDriver[12701:607573] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/6020B623-584F-4F87-9F0F-E71AEC4A7D3B/Library/Cookies/Cookies.binarycookies
+2015-04-05 12:04:13.762 SuberDriver[12701:607573] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 12:04:13.762 SuberDriver[12701:607573] Multi-tasking -> Device: YES, App: YES
+2015-04-05 12:04:13.764 SuberDriver[12701:607573] Unlimited access to network resources
+2015-04-05 12:04:13.767 SuberDriver[12701:607573] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 12:04:14.005 SuberDriver[12701:607573] Resetting plugins due to page load.
+2015-04-05 12:04:14.305 SuberDriver[12701:607573] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/8E2E7EEA-BFC2-4324-9AF0-E822D3EF0C48/SuberDriver.app/www/index.html
+2015-04-05 12:04:40.784 SuberDriver[12908:608224] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/DACCDEBB-3116-45EB-A76E-879CC8CA59DB/Library/Cookies/Cookies.binarycookies
+2015-04-05 12:04:40.872 SuberDriver[12908:608224] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 12:04:40.872 SuberDriver[12908:608224] Multi-tasking -> Device: YES, App: YES
+2015-04-05 12:04:40.874 SuberDriver[12908:608224] Unlimited access to network resources
+2015-04-05 12:04:40.877 SuberDriver[12908:608224] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 12:04:41.092 SuberDriver[12908:608224] Resetting plugins due to page load.
+2015-04-05 12:04:41.668 SuberDriver[12908:608224] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/5759E617-9978-4006-9078-C9D668426155/SuberDriver.app/www/index.html
+2015-04-05 12:05:09.292 SuberDriver[13101:608826] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/6FAA72F1-8DD3-472D-9252-807A8BAEEE47/Library/Cookies/Cookies.binarycookies
+2015-04-05 12:05:09.381 SuberDriver[13101:608826] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 12:05:09.382 SuberDriver[13101:608826] Multi-tasking -> Device: YES, App: YES
+2015-04-05 12:05:09.384 SuberDriver[13101:608826] Unlimited access to network resources
+2015-04-05 12:05:09.387 SuberDriver[13101:608826] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 12:05:09.626 SuberDriver[13101:608826] Resetting plugins due to page load.
+2015-04-05 12:05:09.926 SuberDriver[13101:608826] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/39911117-519A-43C0-A103-62F1765D5AC9/SuberDriver.app/www/index.html
+2015-04-05 13:57:32.275 SuberDriver[21413:658080] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/660155CC-5280-4E06-A644-73C9BC31439D/Library/Cookies/Cookies.binarycookies
+2015-04-05 13:57:32.680 SuberDriver[21413:658080] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 13:57:32.681 SuberDriver[21413:658080] Multi-tasking -> Device: YES, App: YES
+2015-04-05 13:57:32.710 SuberDriver[21413:658080] Unlimited access to network resources
+2015-04-05 13:57:32.724 SuberDriver[21413:658080] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 13:57:33.403 SuberDriver[21413:658080] Resetting plugins due to page load.
+2015-04-05 13:57:33.802 SuberDriver[21413:658080] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/F20F158C-938C-4794-B168-80B973491DC9/SuberDriver.app/www/index.html
+2015-04-05 13:58:06.819 SuberDriver[21639:658900] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/53DDA96A-54D4-45D5-AFBF-7DC3E207A7B9/Library/Cookies/Cookies.binarycookies
+2015-04-05 13:58:06.907 SuberDriver[21639:658900] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 13:58:06.907 SuberDriver[21639:658900] Multi-tasking -> Device: YES, App: YES
+2015-04-05 13:58:06.909 SuberDriver[21639:658900] Unlimited access to network resources
+2015-04-05 13:58:06.912 SuberDriver[21639:658900] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 13:58:07.122 SuberDriver[21639:658900] Resetting plugins due to page load.
+2015-04-05 13:58:07.433 SuberDriver[21639:658900] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/6FD62CD6-DE55-4727-A19B-83430A9AEFCD/SuberDriver.app/www/index.html
+2015-04-05 14:11:05.709 SuberDriver[23191:668636] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/E0188FE4-263A-43C3-A4E6-D93D6E744487/Library/Cookies/Cookies.binarycookies
+2015-04-05 14:11:06.071 SuberDriver[23191:668636] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 14:11:06.072 SuberDriver[23191:668636] Multi-tasking -> Device: YES, App: YES
+2015-04-05 14:11:06.092 SuberDriver[23191:668636] Unlimited access to network resources
+2015-04-05 14:11:06.110 SuberDriver[23191:668636] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 14:11:06.834 SuberDriver[23191:668636] Resetting plugins due to page load.
+2015-04-05 14:11:07.290 SuberDriver[23191:668636] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/C1948EA8-406A-4805-B6FD-5BBB8FBA1B49/SuberDriver.app/www/index.html
+2015-04-05 14:24:56.171 SuberDriver[24831:679619] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/49E227A6-5537-4839-B2B4-C2910A074687/Library/Cookies/Cookies.binarycookies
+2015-04-05 14:24:56.488 SuberDriver[24831:679619] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 14:24:56.489 SuberDriver[24831:679619] Multi-tasking -> Device: YES, App: YES
+2015-04-05 14:24:56.503 SuberDriver[24831:679619] Unlimited access to network resources
+2015-04-05 14:24:56.517 SuberDriver[24831:679619] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 14:24:57.192 SuberDriver[24831:679619] Resetting plugins due to page load.
+2015-04-05 14:24:57.668 SuberDriver[24831:679619] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/331A52AD-7B7F-4BED-964A-656469617873/SuberDriver.app/www/index.html
+2015-04-05 14:46:49.177 SuberDriver[27395:699259] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/7C0698FA-6495-4A4E-A4B6-87BB52C754F7/Library/Cookies/Cookies.binarycookies
+2015-04-05 14:46:49.616 SuberDriver[27395:699259] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 14:46:49.617 SuberDriver[27395:699259] Multi-tasking -> Device: YES, App: YES
+2015-04-05 14:46:49.635 SuberDriver[27395:699259] Unlimited access to network resources
+2015-04-05 14:46:49.651 SuberDriver[27395:699259] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 14:46:50.433 SuberDriver[27395:699259] Resetting plugins due to page load.
+2015-04-05 14:46:50.863 SuberDriver[27395:699259] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/6732E108-6B8A-4083-8894-873B08AE31CF/SuberDriver.app/www/index.html
+2015-04-05 14:53:06.147 SuberDriver[28211:704457] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/248DC935-5160-4398-A061-95679B437A7B/Library/Cookies/Cookies.binarycookies
+2015-04-05 14:53:06.518 SuberDriver[28211:704457] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 14:53:06.518 SuberDriver[28211:704457] Multi-tasking -> Device: YES, App: YES
+2015-04-05 14:53:06.538 SuberDriver[28211:704457] Unlimited access to network resources
+2015-04-05 14:53:06.556 SuberDriver[28211:704457] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 14:53:07.344 SuberDriver[28211:704457] Resetting plugins due to page load.
+2015-04-05 14:53:07.675 SuberDriver[28211:704457] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/71FCA50F-3E88-4808-A961-BC72DC317811/SuberDriver.app/www/index.html
+2015-04-05 15:01:10.623 SuberDriver[29268:713001] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/954B4455-3EB9-4EFB-B986-341609E10283/Library/Cookies/Cookies.binarycookies
+2015-04-05 15:01:11.196 SuberDriver[29268:713001] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 15:01:11.197 SuberDriver[29268:713001] Multi-tasking -> Device: YES, App: YES
+2015-04-05 15:01:11.215 SuberDriver[29268:713001] Unlimited access to network resources
+2015-04-05 15:01:11.231 SuberDriver[29268:713001] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 15:01:11.943 SuberDriver[29268:713001] Resetting plugins due to page load.
+2015-04-05 15:01:12.560 SuberDriver[29268:713001] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/F65CD38B-265E-40EB-BC69-1443FE95884B/SuberDriver.app/www/index.html
+2015-04-05 16:27:54.871 SuberDriver[39017:780611] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/89695A51-F1AF-46FD-BD62-3AB7E84F5EFD/Library/Cookies/Cookies.binarycookies
+2015-04-05 16:27:55.290 SuberDriver[39017:780611] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 16:27:55.290 SuberDriver[39017:780611] Multi-tasking -> Device: YES, App: YES
+2015-04-05 16:27:55.310 SuberDriver[39017:780611] Unlimited access to network resources
+2015-04-05 16:27:55.323 SuberDriver[39017:780611] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 16:27:55.987 SuberDriver[39017:780611] Resetting plugins due to page load.
+2015-04-05 16:27:56.357 SuberDriver[39017:780611] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/D3E22CFF-188E-4269-AC8D-391DB5E1B607/SuberDriver.app/www/index.html
+2015-04-05 16:32:15.030 SuberDriver[39658:784923] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/7EF2EC01-19BA-45A7-91A4-64C393C1CCFD/Library/Cookies/Cookies.binarycookies
+2015-04-05 16:32:15.115 SuberDriver[39658:784923] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 16:32:15.116 SuberDriver[39658:784923] Multi-tasking -> Device: YES, App: YES
+2015-04-05 16:32:15.117 SuberDriver[39658:784923] Unlimited access to network resources
+2015-04-05 16:32:15.120 SuberDriver[39658:784923] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 16:32:15.319 SuberDriver[39658:784923] Resetting plugins due to page load.
+2015-04-05 16:32:15.515 SuberDriver[39658:784923] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/CF66D0D0-AF59-4AAE-B208-65B804E9A863/SuberDriver.app/www/index.html
+2015-04-05 16:43:52.029 SuberDriver[41042:793483] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/0593CEDE-0AA9-4960-B753-88725E516A89/Library/Cookies/Cookies.binarycookies
+2015-04-05 16:43:52.355 SuberDriver[41042:793483] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 16:43:52.355 SuberDriver[41042:793483] Multi-tasking -> Device: YES, App: YES
+2015-04-05 16:43:52.373 SuberDriver[41042:793483] Unlimited access to network resources
+2015-04-05 16:43:52.391 SuberDriver[41042:793483] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 16:43:53.073 SuberDriver[41042:793483] Resetting plugins due to page load.
+2015-04-05 16:43:53.410 SuberDriver[41042:793483] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/954E6BCC-BF10-464E-80F7-D3511B75FE99/SuberDriver.app/www/index.html
+2015-04-05 19:12:58.483 SuberDriver[41042:825722] Communications error: <OS_xpc_error: <error: 0x2d9c5f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d9c83c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-04-05 22:09:39.609 SuberDriver[64712:960650] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/27174806-9C19-48D6-A302-D83AD53E33E6/Library/Cookies/Cookies.binarycookies
+2015-04-05 22:09:39.949 SuberDriver[64712:960650] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 22:09:39.950 SuberDriver[64712:960650] Multi-tasking -> Device: YES, App: YES
+2015-04-05 22:09:39.968 SuberDriver[64712:960650] Unlimited access to network resources
+2015-04-05 22:09:39.982 SuberDriver[64712:960650] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 22:09:40.754 SuberDriver[64712:960650] Resetting plugins due to page load.
+2015-04-05 22:09:41.202 SuberDriver[64712:960650] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/B190FF21-1810-4688-A27C-F9EFC820E77D/SuberDriver.app/www/index.html
+2015-04-05 22:12:27.374 SuberDriver[65167:963832] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/85715758-8A5A-4C3A-929F-86A5A4A85C2F/Library/Cookies/Cookies.binarycookies
+2015-04-05 22:12:27.908 SuberDriver[65167:963832] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 22:12:27.909 SuberDriver[65167:963832] Multi-tasking -> Device: YES, App: YES
+2015-04-05 22:12:27.931 SuberDriver[65167:963832] Unlimited access to network resources
+2015-04-05 22:12:27.952 SuberDriver[65167:963832] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 22:12:28.873 SuberDriver[65167:963832] Resetting plugins due to page load.
+2015-04-05 22:12:29.312 SuberDriver[65167:963832] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/8555AA99-B878-4CC5-9522-E2453D8B8AE0/SuberDriver.app/www/index.html
+2015-04-05 22:14:26.852 SuberDriver[65167:965897] Terminating since there is no system app.
+2015-04-05 22:14:26.857 SuberDriver[65167:965953] Communications error: <OS_xpc_error: <error: 0x2df85f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2df883c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-04-05 22:55:17.850 SuberDriver[70014:999548] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/8CBA1D30-A368-42A5-AB85-6D0259C22E5D/Library/Cookies/Cookies.binarycookies
+2015-04-05 22:55:18.212 SuberDriver[70014:999548] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 22:55:18.213 SuberDriver[70014:999548] Multi-tasking -> Device: YES, App: YES
+2015-04-05 22:55:18.231 SuberDriver[70014:999548] Unlimited access to network resources
+2015-04-05 22:55:18.246 SuberDriver[70014:999548] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 22:55:19.012 SuberDriver[70014:999548] Resetting plugins due to page load.
+2015-04-05 22:55:19.448 SuberDriver[70014:999548] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/398171D0-311A-4096-A93C-F390C55C6809/SuberDriver.app/www/index.html
+2015-04-05 22:56:42.579 SuberDriver[70340:1001223] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/3C05A306-824B-4E4D-B45F-5D617DA231A8/Library/Cookies/Cookies.binarycookies
+2015-04-05 22:56:42.907 SuberDriver[70340:1001223] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 22:56:42.908 SuberDriver[70340:1001223] Multi-tasking -> Device: YES, App: YES
+2015-04-05 22:56:42.924 SuberDriver[70340:1001223] Unlimited access to network resources
+2015-04-05 22:56:42.937 SuberDriver[70340:1001223] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 22:56:43.575 SuberDriver[70340:1001223] Resetting plugins due to page load.
+2015-04-05 22:56:44.099 SuberDriver[70340:1001223] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/9B0062C4-9A75-4AD2-806D-7CD536450927/SuberDriver.app/www/index.html
+2015-04-05 22:58:41.742 SuberDriver[70725:1003432] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/DD945E04-23F1-4093-A875-0E3A029467C4/Library/Cookies/Cookies.binarycookies
+2015-04-05 22:58:41.961 SuberDriver[70725:1003432] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 22:58:41.962 SuberDriver[70725:1003432] Multi-tasking -> Device: YES, App: YES
+2015-04-05 22:58:41.964 SuberDriver[70725:1003432] Unlimited access to network resources
+2015-04-05 22:58:41.968 SuberDriver[70725:1003432] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 22:58:42.248 SuberDriver[70725:1003432] Resetting plugins due to page load.
+2015-04-05 22:58:42.500 SuberDriver[70725:1003432] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/FE005EF8-B0AA-4E7B-BE0C-6B1B7FC368EB/SuberDriver.app/www/index.html
+2015-04-05 22:59:48.751 SuberDriver[71019:1004843] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/4777CC58-D972-4F63-94EC-624AEF102EFA/Library/Cookies/Cookies.binarycookies
+2015-04-05 22:59:49.221 SuberDriver[71019:1004843] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 22:59:49.224 SuberDriver[71019:1004843] Multi-tasking -> Device: YES, App: YES
+2015-04-05 22:59:49.253 SuberDriver[71019:1004843] Unlimited access to network resources
+2015-04-05 22:59:49.283 SuberDriver[71019:1004843] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 22:59:50.440 SuberDriver[71019:1004843] Resetting plugins due to page load.
+2015-04-05 22:59:51.080 SuberDriver[71019:1004843] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/98F23A33-3F19-4524-A97B-F3C511BC1837/SuberDriver.app/www/index.html
+2015-04-05 23:01:56.958 SuberDriver[71427:1006980] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/B4132002-E3C3-499D-A172-B53092E6D963/Library/Cookies/Cookies.binarycookies
+2015-04-05 23:01:57.275 SuberDriver[71427:1006980] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 23:01:57.276 SuberDriver[71427:1006980] Multi-tasking -> Device: YES, App: YES
+2015-04-05 23:01:57.292 SuberDriver[71427:1006980] Unlimited access to network resources
+2015-04-05 23:01:57.312 SuberDriver[71427:1006980] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 23:01:58.019 SuberDriver[71427:1006980] Resetting plugins due to page load.
+2015-04-05 23:01:58.375 SuberDriver[71427:1006980] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/AB552D0E-8383-46D9-863B-84AAF824612C/SuberDriver.app/www/index.html
+2015-04-05 23:03:22.728 SuberDriver[71743:1008720] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/DC9D3E7F-CC62-4590-B322-BDBFEC16B134/Library/Cookies/Cookies.binarycookies
+2015-04-05 23:03:22.969 SuberDriver[71743:1008720] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 23:03:22.970 SuberDriver[71743:1008720] Multi-tasking -> Device: YES, App: YES
+2015-04-05 23:03:22.972 SuberDriver[71743:1008720] Unlimited access to network resources
+2015-04-05 23:03:22.976 SuberDriver[71743:1008720] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 23:03:23.294 SuberDriver[71743:1008720] Resetting plugins due to page load.
+2015-04-05 23:03:23.532 SuberDriver[71743:1008720] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/2EBA8190-1102-4475-8CBC-4DB93725D363/SuberDriver.app/www/index.html
+2015-04-05 23:09:11.392 SuberDriver[72532:1013338] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/2E9FDFDC-1C45-48E7-86E3-C09D812725E3/Library/Cookies/Cookies.binarycookies
+2015-04-05 23:09:11.586 SuberDriver[72532:1013338] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 23:09:11.586 SuberDriver[72532:1013338] Multi-tasking -> Device: YES, App: YES
+2015-04-05 23:09:11.605 SuberDriver[72532:1013338] Unlimited access to network resources
+2015-04-05 23:09:11.617 SuberDriver[72532:1013338] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 23:09:12.165 SuberDriver[72532:1013338] Resetting plugins due to page load.
+2015-04-05 23:09:12.503 SuberDriver[72532:1013338] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/2941B37F-1401-4D63-BE30-E9AFA50D6176/SuberDriver.app/www/index.html
+2015-04-05 23:10:50.995 SuberDriver[72880:1015097] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/0C0F5F56-90C9-44C0-9F79-B98F1FE87BFF/Library/Cookies/Cookies.binarycookies
+2015-04-05 23:10:51.225 SuberDriver[72880:1015097] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-05 23:10:51.227 SuberDriver[72880:1015097] Multi-tasking -> Device: YES, App: YES
+2015-04-05 23:10:51.232 SuberDriver[72880:1015097] Unlimited access to network resources
+2015-04-05 23:10:51.246 SuberDriver[72880:1015097] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-05 23:10:51.715 SuberDriver[72880:1015097] Resetting plugins due to page load.
+2015-04-05 23:10:52.050 SuberDriver[72880:1015097] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/ED25D3F4-2D7D-4DF1-919E-92AE3C0716F7/SuberDriver.app/www/index.html
+2015-04-05 23:53:20.897 SuberDriver[72880:1050512] Communications error: <OS_xpc_error: <error: 0x2d775f4> { count = 1, contents =
+	"XPCErrorDescription" => <string: 0x2d7783c> { length = 22, contents = "Connection interrupted" }
+}>
+2015-04-06 18:58:11.840 SuberDriver[1834:1257269] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/1D768AA7-E2AC-488F-BDB3-840E14F7D620/Library/Cookies/Cookies.binarycookies
+2015-04-06 18:58:12.209 SuberDriver[1834:1257269] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-06 18:58:12.210 SuberDriver[1834:1257269] Multi-tasking -> Device: YES, App: YES
+2015-04-06 18:58:12.230 SuberDriver[1834:1257269] Unlimited access to network resources
+2015-04-06 18:58:12.245 SuberDriver[1834:1257269] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-06 18:58:12.937 SuberDriver[1834:1257269] Resetting plugins due to page load.
+2015-04-06 18:58:13.490 SuberDriver[1834:1257269] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/14341C1C-B2C3-4556-8677-5BB7194BB17A/SuberDriver.app/www/index.html
+2015-04-06 19:09:12.593 SuberDriver[3267:1266339] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Data/Application/842EA003-6C16-4C67-833C-02730943EA6B/Library/Cookies/Cookies.binarycookies
+2015-04-06 19:09:12.985 SuberDriver[3267:1266339] Apache Cordova native platform version 3.8.0 is starting.
+2015-04-06 19:09:12.986 SuberDriver[3267:1266339] Multi-tasking -> Device: YES, App: YES
+2015-04-06 19:09:13.007 SuberDriver[3267:1266339] Unlimited access to network resources
+2015-04-06 19:09:13.024 SuberDriver[3267:1266339] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-04-06 19:09:13.851 SuberDriver[3267:1266339] Resetting plugins due to page load.
+2015-04-06 19:09:14.363 SuberDriver[3267:1266339] Finished load of: file:///Users/noe/Library/Developer/CoreSimulator/Devices/4020C018-099D-4610-89C6-6F0C6382DE18/data/Containers/Bundle/Application/2417D0AE-6872-482C-9806-4836CF3B0DA5/SuberDriver.app/www/index.html

@@ -1,0 +1,55 @@
+<ons-page>
+    <ons-toolbar>
+        <div class="center">Log In</div>
+    </ons-toolbar>
+
+    <div class="login-form" >
+        <ons-list modifier="inset" class="settings-list" >
+        <ons-list-item>
+<br>
+<center><img src="img/psa_logo.png"></center><br>
+<center><img src="img/suberdriver.png"></center><br>
+		<center><img src="img/mbf2_logo.png"></center>
+        </ons-list-item>
+            <ons-list-item>
+                <input type="text" class="text-input tbox" placeholder="Nom" ng-model="pref.name"></br>
+            </ons-list-item>
+            <ons-list-item>
+                <input type="text" class="text-input tbox" placeholder="VIN" ng-model="pref.vin"></br>
+            </ons-list-item>
+            <ons-list-item>
+                <input type="text" class="text-input tbox" placeholder="Contrat" ng-model="pref.contrat"></br>
+            </ons-list-item>
+            <ons-list-item>
+                <input type="password" class="text-input tbox" placeholder="Code Secure" ng-model="pref.code_secure"></br>
+            </ons-list-item>
+            <ons-list-item>
+                <ons-row>
+                    Voir les clients dans : {{ pref.perim/10 }} Km
+                </ons-row>
+                <ons-row>
+                    <ons-col width="50px">
+                        0 Km
+                    </ons-col>
+                    <ons-col class="range-wrapper">
+                        <input type="range" value="0" class="range" ng-model="pref.perim">
+                    </ons-col>
+                    <ons-col width="50px">
+                        10 km
+                    </ons-col>
+                </ons-row>
+            </ons-list-item>
+            <ons-list-item>
+                Enregistrer le VIN et le contrat
+                <ons-switch modifier="list-item" ng-model="pref.save_vin_switch"></ons-switch>
+            </ons-list-item>
+        </ons-list>
+        <ons-list modifier="inset"  class="settings-list" ng-click="save(); app.navi.pushPage('main.html')">
+            <ons-list-item modifier="tappable" >
+                <ons-icon icon="ion-checkmark-circled" style="opacity: 0.8"></ons-icon>
+                Se connecter
+            </ons-list-item>
+        </ons-list>
+    </div>
+
+</ons-page>

@@ -1,0 +1,43 @@
+<ons-page>
+    <ons-toolbar>
+        <div class="center">SuberCab</div>
+    </ons-toolbar>
+
+
+    <ons-list modifier="inset" style="margin-top: 10px">
+        <ons-list-item class="to-wrapper">
+            <ons-row>
+                <ons-col width="100%" style="margin-top: 10px">
+                    <center><img src="img/psa_logo.png"></center>
+                    <center><img src="img/suber_cab.png"></center>
+                </ons-col>
+            </ons-row>
+            <ons-row>
+                <ons-col width="100%">
+                    <div ng-controller="MainCtrl" class="controller">
+					    <div id="Receiver"></div>
+                        <div ng-hide="demande_en_cours">
+                            <button class="button button--large" ng-click="clickMe(model.message)">Demander un taxi !</button>
+                        </div>
+                        <div ng_show="demande_en_cours">
+                            <center>Recherche d'un taxi en cours !</center>
+                            <br>
+                            <center><progress max="100" value="{{rech_pb}}" width="100%" ></progress></center>
+                            <br>
+                        </div>
+                    </div>
+                </ons-col>
+            </ons-row>
+            <ons-row>
+                <ons-col width="100%">
+
+                </ons-col>
+            </ons-row>
+            <ons-row>
+                <ons-col width="100%">
+                    <center><img src="img/mbf2_logo.png"></center>
+                </ons-col>
+            </ons-row>
+        </ons-list>
+    </ons-list>
+</ons-page>
